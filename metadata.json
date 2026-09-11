@@ -1,0 +1,6 @@
+{
+  "name": "Azvasa - School Franchise & Transformation",
+  "description": "Premium landing page for Azvasa, a school franchise and education transformation platform providing CBSE & NEP 2020 alignment, teacher training, academic audits, and operational support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
